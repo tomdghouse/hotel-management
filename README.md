@@ -41,5 +41,6 @@ It demonstrates how different services interact with each other in a distributed
 * **Ratings** are fetched by combining data from multiple services via **Feign Clients** and exposed through the gateway.
 
 ---
-**Architecture diagram**
+## 🏛️ Architecture diagram
 
+<img width="1024" height="1024" alt="hotel-management=architecture" src="https://github.com/user-attachments/assets/0f71766b-84e4-4a53-9305-3fe577c55b4c" />
